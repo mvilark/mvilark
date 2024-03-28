@@ -1,1 +1,1 @@
-My projects are on my git [lab](https://gitlab.com/alekarhis)
+My projects are on my [GitLab](https://gitlab.com/alekarhis)
